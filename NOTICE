@@ -1,0 +1,25 @@
+NOTICE
+======
+
+This repository contains a case-study workflow that calls the official GNNWR
+Python package. The GNNWR model core is not copied or modified here.
+
+Upstream project
+----------------
+GNNWR
+https://github.com/zjuwss/gnnwr
+Version used by this workflow: 0.1.17
+Documented upstream commit: 2711bdee9821bfe242992d2eb885a78be1cf2628
+Licence: GNU General Public License v3.0
+
+Method references
+-----------------
+Du, Z., Wang, Z., Wu, S., Zhang, F., and Liu, R. 2020. Geographically
+neural network weighted regression for the accurate estimation of spatial
+non-stationarity. International Journal of Geographical Information Science,
+34, 1353-1377. DOI 10.1080/13658816.2019.1707834.
+
+Yin, Z. et al. 2024. GNNWR: an open-source package of spatiotemporal
+intelligent regression methods for modeling spatial and temporal
+nonstationarity. Geoscientific Model Development, 17, 8455-8468.
+DOI 10.5194/gmd-17-8455-2024.

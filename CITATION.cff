@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this workflow, cite this repository and the GNNWR method papers listed in README.md."
+title: "Ukraine war impact GNNWR reproducibility workflow"
+type: software
+authors:
+  - name: "wzq3214"
+    website: "https://github.com/wzq3214"
+repository-code: "https://github.com/wzq3214/ukraine-war-impact-gnnwr"
+license: GPL-3.0-or-later
+keywords:
+  - GNNWR
+  - GWR
+  - spatial cross-validation
+  - internal displacement
+  - Ukraine

@@ -216,3 +216,25 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Research inputs and generated outputs
+data/*.xlsx
+data/*.xls
+data/*.csv
+data/*.shp
+data/*.dbf
+data/*.shx
+data/*.prj
+data/*.cpg
+data/*.gpkg
+!data/README.md
+outputs/
+demo_result/
+gnnwr_work/
+models/
+logs/
+runs/
+*.pkl
+*.pth
+*.pt
+*.tfevents.*

@@ -1,0 +1,22 @@
+name: ukraine-war-impact-gnnwr
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy>=1.24,<3
+  - pandas>=2.0,<3
+  - scipy>=1.10,<2
+  - scikit-learn>=1.3,<2
+  - pytorch>=2.0
+  - tensorboard>=2.12
+  - tqdm>=4.65
+  - openpyxl>=3.1
+  - matplotlib>=3.7
+  - geopandas>=0.14
+  - shapely>=2.0
+  - pyogrio>=0.7
+  - pip
+  - pip:
+      - gnnwr==0.1.17
+      - pytest>=8.0
